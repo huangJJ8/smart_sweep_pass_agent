@@ -2,7 +2,6 @@
 
 基于 **LangChain / LangGraph + ReAct Agent + RAG** 架构的扫地/扫拖机器人智能客服，支持多工具调用、动态提示词切换和流式对话。
 
----
 
 ## 🧩 项目架构
 
