@@ -2,11 +2,6 @@
 
 基于 **LangChain / LangGraph + ReAct Agent + RAG** 架构的扫地/扫拖机器人智能客服，支持多工具调用、动态提示词切换和流式对话。
 
-> 📺 本仓库为 B 站课程《AI大模型RAG与Agent智能体开发项目实战课程》配套代码。
->
-> 🎓 讲师：小曹老师 · [B站主页](https://space.bilibili.com/1032221418) · [课程地址](https://www.bilibili.com/video/BV1yjz5BLEoY)
-
----
 
 ## 🧩 项目架构
 
@@ -166,6 +161,3 @@ LangGraph Agent (ReAct 循环)
 
 仅供学习参考，请勿用于商业用途。
 
----
-
-> 💡 更多 AI Agent 开发技巧，欢迎关注 [小曹老师 B站主页](https://space.bilibili.com/1032221418)！
